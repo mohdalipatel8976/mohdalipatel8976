@@ -1,6 +1,36 @@
 # 💫 About Me:
-# Hi there 👋  <br>I’m **Ali**, a passionate learner and explorer in the field of **Computer Science and Engineering**.  <br><br>## About Me  <br>- 🔧 **Technical Enthusiast**: Always keen on diving into technical realms and solving challenges.  <br>- 💻 **Experience Overview**:  <br>  - **Ethical Hacking**: 3 years of self-paced learning and practical experience.  <br>  - **Web Development**:  <br>    - Frontend: HTML, CSS, JavaScript.  <br>    - Backend: Node.js, and later shifted to WordPress with **SEO skills** (1+ year).  <br>  - **Android Development**: 2 years of hands-on experience, continuing to expand expertise in this area.  <br>  - **Data Science**: Currently focused on building a career in data science with practical project work.  <br><br>## My Journey  <br>It all started in **2019**, and since then, I’ve explored various domains, including:  <br>- **Machine Learning & AI**  <br>- **Ethical Hacking, Forensics, and Cybersecurity**  <br>- **Cloud Computing**: AWS & Azure  <br>- **Game Development**<br>- **Computer Networking**<br>- **Operating Systems and Hardware/Software Concepts**  <br>- **Programming Languages**: Python, Kotlin, Java, JavaScript, PHP, SQL, C/C++, C#  <br>- **Frameworks**: Django, Flask  <br><br>## Current Goals  <br>- 🌱 Deepening my knowledge and expertise in **data science** and **Android development**.  <br>- 🤝 Looking to collaborate on exciting projects in **data science**, **AI**, and **mobile app development**.  <br><br>## How to Reach Me  <br>- 📫 Telegram: [alimack786](https://t.me/alimack786)  <br><br>⚡ **Fun Fact**: I love connecting the dots between various technologies and applying them to real-world problems!  <br><br>Let me know if you'd like any tweaks or additions! 🚀<br><br><br><br><!--<br>**mohdalipatel8976/mohdalipatel8976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>--><br>
+Hi there 👋  
+I’m **Ali**, a passionate learner and explorer in the field of **Computer Science and Engineering**.  
 
+## About Me  
+- 🔧 **Technical Enthusiast**: Always keen on diving into technical realms and solving challenges.  
+- 💻 **Experience Overview**:  
+  - **Ethical Hacking**: 3 years of self-paced learning and practical experience.  
+  - **Web Development**:  
+    - Frontend: HTML, CSS, JavaScript.  
+    - Backend: Node.js, and later shifted to WordPress with **SEO skills** (1+ year).  
+  - **Android Development**: 2 years of hands-on experience, continuing to expand expertise in this area.  
+  - **Data Science**: Currently focused on building a career in data science with practical project work.  
+
+## My Journey  
+It all started in **2019**, and since then, I’ve explored various domains, including:  
+- **Machine Learning & AI**  
+- **Ethical Hacking, Forensics, and Cybersecurity**  
+- **Cloud Computing**: AWS & Azure  
+- **Game Development**  
+- **Computer Networking**  
+- **Operating Systems and Hardware/Software Concepts**  
+- **Programming Languages**: Python, Kotlin, Java, JavaScript, PHP, SQL, C/C++, C#  
+- **Frameworks**: Django, Flask  
+
+## Current Goals  
+- 🌱 Deepening my knowledge and expertise in **data science** and **Android development**.  
+- 🤝 Looking to collaborate on exciting projects in **data science**, **AI**, and **mobile app development**.  
+
+## How to Reach Me  
+- 📫 Telegram: [alimack786](https://t.me/alimack786)  
+
+⚡ **Fun Fact**: I love connecting the dots between various technologies and applying them to real-world problems!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alipatel786) 
