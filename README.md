@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋  
+- 🔭 I’m currently working on data science projects.  
+- 🌱 I’m currently learning data science.  
+- 👯 I’m looking to collaborate on interesting data science projects.  
+- 🤔 I’m looking for help with advanced data analysis and machine learning techniques.  
+- 💬 Ask me about data science, Python, or any tech-related queries!  
+- 📫 How to reach me: Telegram: [alimack786](https://t.me/alimack786)  
+- 😄 Pronouns: he/him 
+
 
 <!--
 **mohdalipatel8976/mohdalipatel8976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
