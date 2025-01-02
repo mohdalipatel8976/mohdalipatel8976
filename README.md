@@ -16,7 +16,8 @@ It all started in **2019**, and since then, I’ve explored various domains, inc
 - **Machine Learning & AI**  
 - **Ethical Hacking, Forensics, and Cybersecurity**  
 - **Cloud Computing**: AWS & Azure  
-- **Game Development**  
+- **Game Development**
+- **Computer Networking**
 - **Operating Systems and Hardware/Software Concepts**  
 - **Programming Languages**: Python, Kotlin, Java, JavaScript, PHP, SQL, C/C++, C#  
 - **Frameworks**: Django, Flask  
