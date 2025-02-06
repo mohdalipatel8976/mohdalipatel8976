@@ -28,7 +28,9 @@ It all started in **2019**, and since then, I’ve explored various domains, inc
 - 🤝 Looking to collaborate on exciting projects in **data science**, **AI**, and **mobile app development**.  
 
 ## How to Reach Me  
-- 📫 Telegram: [alimack786](https://t.me/alimack786)  
+- 📫 Telegram: [alimack786](https://t.me/alimack786)
+- 📫 Email: [mohdalipatel8976@gmail.com](mohdalipatel8976@gmail.com)
+
 
 ⚡ **Fun Fact**: I love connecting the dots between various technologies and applying them to real-world problems!  
 
